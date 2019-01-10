@@ -4,6 +4,7 @@
 效果图：
 ![play1](https://49star.com/static/images/python/tianqi.png)<br>
 ![play1](https://49star.com/static/images/python/tianqi1.png)<br>
+代码放在wither.py中了<br>
 原理比较简单，相信大家看到代码就懂了。<br>
 
 先导入所需要用到的模块
