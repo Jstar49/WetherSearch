@@ -1,4 +1,4 @@
-# Python-
+# WetherSearch
 利用爬虫技术实现天气查询（窗口化
 
 效果图：<br>
